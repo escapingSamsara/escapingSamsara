@@ -1,6 +1,7 @@
 Hi, my name is Jakob Pusterhofer!
 I am a front-end developer based in Austria, currently living in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer.
 <br>
+<br>
 🌍  I'm based in Graz, Austria
 <br>
 🤝  I'm open to collaborating on I am always looking for collaborations with other creative souls to learn from and to work with.
