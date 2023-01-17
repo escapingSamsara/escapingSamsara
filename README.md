@@ -24,8 +24,6 @@ I am a front-end developer based in Austria, currently living in Graz. I am very
 
 <a href="http://www.github.com/escapingSamsara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=escapingSamsara&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/escapingSamsara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=escapingSamsara&bg_color=1c1917&color=ffffff&line=ffffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/escapingSamsara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
