@@ -1,5 +1,5 @@
 ### Hi, my name is Jakob alias escapingSamsara! <br>
-I am a front-end developer based in Austria, currently living in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer.
+I am a front-end developer from Austria, currently based in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer.
 <br>
 <br>
 🌍  I'm based in Graz, Austria
