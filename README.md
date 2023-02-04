@@ -3,8 +3,8 @@
 I am a front-end developer from Austria, currently based in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer. <br> <br>
 🌍  I'm based in Graz, Austria <br>
 🤝  I'm open to collaborating on I am always looking for collaborations with other creative souls to learn from and to work with. <br>
-⚡  Besides being passionate about programming, I am also very much into UI/UX Design and music. I am a musician myself playing various instruments and working on several solo and band projects.
-
+⚡  Besides being passionate about programming, I am also very much into UI/UX Design and music. I am a musician myself playing various instruments and working on several solo and band projects. <br>
+<a href="https://app.daily.dev/escapingSamsara"><img src="https://api.daily.dev/devcards/7a48cb0ade464cf79e360969ffd176e9.png?r=uu3" width="400" alt="escapingSamsara's Dev Card"/></a> <br>
 ### Skills
 
 
