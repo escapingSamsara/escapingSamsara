@@ -14,7 +14,7 @@ I am a front-end developer from Austria, currently based in Graz. I am very pass
 
 <br>
 <br>
-<a href="https://app.daily.dev/escapingSamsara"><img src="https://api.daily.dev/devcards/7a48cb0ade464cf79e360969ffd176e9.png?r=uu3" width="400" alt="escapingSamsara's Dev Card"/></a> <br><br>
+<a href="https://app.daily.dev/escapingSamsara"><img src="https://github.com/escapingSamsara/escapingSamsara/blob/main/devcard.svg" width="400" alt="escapingSamsara's Dev Card"/></a> <br><br>
 
 
 ### Support Me
