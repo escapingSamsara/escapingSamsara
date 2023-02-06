@@ -1,6 +1,6 @@
 ### Hi, My name is Jakob! <br> 
 
-I am a front-end developer from Austria, currently based in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer. <br> <br>
+I am a web developer from Austria, currently based in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a front-end developer. <br> <br>
 🌍  I'm based in Graz, Austria <br>
 🤝  I'm open to collaborating on I am always looking for collaborations with other creative souls to learn from and to work with. <br>
 ⚡  Besides being passionate about programming, I am also very much into UI/UX Design and music. I am a musician myself playing various instruments and working on several solo and band projects. 
