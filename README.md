@@ -5,7 +5,7 @@ I am a web developer from Austria, currently based in Graz. I am very passionate
 🤝  I am always looking for collaborations with other creative souls to learn from and to work with. <br>
 ⚡  Besides being passionate about programming, I am also very much into UI/UX Design, writing, and music. I am a musician myself playing various instruments and I'm currently working on a new solo project.
 
-###My Portfolio
+### My Portfolio
 https://tinyurl.com/jP-webDev
 
 ### Skills
