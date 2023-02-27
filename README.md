@@ -1,9 +1,9 @@
 ### Hi, My name is Jakob! <br> 
 
-I am a web developer from Austria, currently based in Graz. I am very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer. <br> <br>
-🌍  I'm based in Graz, Austria <br>
-🤝  I am always looking for collaborations with other creative souls to learn from and to work with. <br>
-⚡  Besides being passionate about programming, I am also very much into UI/UX Design, writing, and music. I am a musician myself playing various instruments and I'm currently working on a new solo project.
+I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer. <br> <br>
+🌍  Graz, Austria <br>
+🤝  I'm always looking for collaborations with other creative souls to learn from and to work with. <br>
+⚡  Besides being passionate about programming, I'm also very much into UI/UX Design, writing, and music. I'm a musician myself playing various instruments and I'm currently working on a new solo project.
 
 ### My Portfolio
 https://escapingsamsara.github.io/jakobpusterhofer.dev/
