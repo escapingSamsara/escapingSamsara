@@ -1,4 +1,3 @@
-<body font-family="Poppins, sans-serif">
  ### Hi, my name is Jakob!
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.</p>
 
@@ -25,4 +24,4 @@ I'm a web developer from Austria, currently based in Graz. I'm very passionate a
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/escapingSamsara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</body>
+
