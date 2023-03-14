@@ -24,7 +24,7 @@ I'm a web developer from Austria, currently based in Graz. I'm very passionate a
 
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/escapingSamsara/escapingSamsara/blob/master/devcard.svg" width="400" alt="escapingSamsara's Dev Card"/></a>
+<a href="https://app.daily.dev/escapingSamsara"><img src="https://github.com/escapingSamsara/escapingSamsara/blob/master/devcard.svg" width="400" alt="escapingSamsara's Dev Card"/></a>
 
 
 
