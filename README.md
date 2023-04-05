@@ -3,7 +3,7 @@ I'm a web developer from Austria, currently based in Graz. I'm very passionate a
 
 
 🌍  I'm based in Graz, Austria
-<br>🖥️  Click [here](http://escapingsamsara.github.io/jakobpusterhofer.dev/) to visit my portfolio
+<br>🖥️  Click [here](https://jakobpusterhofer-dev.netlify.app/) to visit my portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/2d261955-4478-40bb-b5bf-3d6601d86a88/deploy-status)](https://app.netlify.com/sites/jakobpusterhofer-dev/deploys)
 <br>
 
 ### Skills
