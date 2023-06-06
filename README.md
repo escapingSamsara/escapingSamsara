@@ -7,7 +7,7 @@ Web Developer
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.
 
 *   🌍  I'm based in Graz
-*   🖥️  Click [here](https://jakobpusterhofer-dev.netlify.app/) to visit my portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/2d261955-4478-40bb-b5bf-3d6601d86a88/deploy-status)](https://app.netlify.com/sites/jakobpusterhofer-dev/deploys)
+*   🖥️  Click [here](https://escapingsamsara.github.io/jakobpusterhofer.dev.vite/) to visit my portfolio 
 *   🧠  I'm learning React, TypeScript
 
 ### Skills 
