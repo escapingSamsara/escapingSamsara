@@ -1,12 +1,13 @@
-#Hi 👋 My name is Jakob
+# Hi 👋 My name is Jakob
 
-##Frontend Developer & UI/UX Designer
+## Frontend Developer & UI/UX Designer
 
 
 
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.
+
 🌍  I'm based in Graz 
-🖥️  See my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)
+🖥️  Check out my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)
 🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript
 🤝  I'm open to collaborating on Web Apps, PWA
 
