@@ -6,10 +6,15 @@
 
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.
 
-🌍  I'm based in Graz 
+<br/>
+🌍  I'm based in Graz
+<br/>
 🖥️  Check out my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)
+<br/>
 🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript
+<br/>
 🤝  I'm open to collaborating on Web Apps, PWA
+<br/>
 
 ### Skills
 
