@@ -1,5 +1,14 @@
-Hi 👋 My name is Jakob
-======================Frontend Developer & UI/UX Designer-----------------------------------I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.* 🌍  I'm based in Graz* 🖥️  See my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)* 🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript* 🤝  I'm open to collaborating on Web Apps, PWA
+#Hi 👋 My name is Jakob
+
+##Frontend Developer & UI/UX Designer
+
+
+
+I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.
+🌍  I'm based in Graz 
+🖥️  See my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)
+🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript
+🤝  I'm open to collaborating on Web Apps, PWA
 
 ### Skills
 
@@ -9,13 +18,9 @@ Hi 👋 My name is Jakob
 ### Socials<p align="left"> <a href="https://www.github.com/escapingSamsara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@jpusterhofer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/escapinSamsara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
 <a href="https://github.com/escapingSamsara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingSamsara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
 <ul style="list-style-type: none; margin: 0;">
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/escapingSamsara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 </ul>
