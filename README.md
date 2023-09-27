@@ -2,7 +2,7 @@
 
 ## Frontend Developer & UI/UX Designer
 
-
+ 1 + 2 &#x2261; 4
 
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites and web-applications. I love expressing and channeling my creativity through my work as a developer.
 
