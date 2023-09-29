@@ -9,7 +9,7 @@ I'm a web developer from Austria, currently based in Graz. I'm very passionate a
 
 🌍  I'm based in Graz
 
-🖥️  Check out my portfolio [here](http://escapingsamsara.github.io/jakobpusterhofer.dev.vite)
+🖥️  Check out my portfolio [here](https://www.jakobpusterhofer.dev/)
 
 🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript
 
