@@ -1,4 +1,4 @@
-# Hi 👋 My name is Jakob
+# Hi 👋 
 
 ## Frontend Developer & UI/UX Designer
 
