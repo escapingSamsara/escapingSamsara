@@ -7,7 +7,7 @@ Software Developer & UI/UX Designer
 I'm a web developer from Austria, currently based in Graz. I'm very passionate about creating aesthetically pleasing, functional and user-friendly websites, web & mobile (Android, iOS) applications. I love expressing and channeling my creativity through my work as a developer.
 
 *   🌍  I'm based in Graz
-*   🖥️  See my portfolio at [here](http://jakobpusterhofer.dev)
+*   🖥️  Check out my portfolio and my latest projects [here](http://jakobpusterhofer.dev)
 *   🧠  I'm learning SvelteKit, CMS, ReactJs, TypeScript, Dart & Flutter
 *   🤝  I'm open to collaborating on anything programming 
 
